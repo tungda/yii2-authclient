@@ -1,4 +1,4 @@
-AuthClient Extension for Yii 2
+AuthClient Extension for Yii 2 (customized for yesido)
 ==============================
 
 This extension adds [OpenID](http://openid.net/), [OAuth](http://oauth.net/) and [OAuth2](http://oauth.net/2/) consumers
